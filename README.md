@@ -1,2 +1,2 @@
 # exercice-repo
-Some conflicts
+Some conflicts 2
